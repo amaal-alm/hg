@@ -102,38 +102,7 @@
   </div>
 </section>
 
-<!-- projects -->
-<section class="projects">
-  <figure class="snip1512">
-    <img src="assets/imgs/pj4.jpg" alt="sample83" />
-    <figcaption>
-      <h3>أغاثة المحتاجين </h3>
-    </figcaption><i class="ion-plus"></i>
-    <a href="#"></a>
-  </figure>
 
-  <figure class="snip1512"><img src="assets/imgs/pj3.jpg" alt="sample38" />
-    <figcaption>
-      <h3>سقيا الماء وحفر الابار</h3>
-    </figcaption><i class="ion-plus"></i>
-    <a href="#"></a>
-  </figure>
-
-  <figure class="snip1512"><img src="assets/imgs/pj1.jpg" alt="sample38" />
-    <figcaption>
-      <h3>التعليم لأطفال افريقيا</h3>
-    </figcaption><i class="ion-plus"></i>
-    <a href="#"></a>
-  </figure>
-
-  <figure class="snip1512"><img src="assets/imgs/pj2.jpg" alt="sample38" />
-    <figcaption>
-      <h3>برنامج رعاية الايتام ودعم الاطفال</h3>
-      
-    </figcaption><i class="ion-plus"></i>
-    <a href="#"></a>
-  </figure>
-</section>
 
 <footer>
   <div class="container">
